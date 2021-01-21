@@ -7,7 +7,8 @@ COVID Analysis - Project Overview
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
 
 ## Dataset: 
-The dataset used is from Our World in Data (</em><a href="https://ourworldindata.org/coronavirus-source-data">https://ourworldindata.org/coronavirus-source-data</a><em>) where up until 17 March 2020, they manually extracted from their daily <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports">situation report PDFs</a> from WHO and on 30 November 2020, they changed their source for confirmed cases and deaths to the <a href="https://github.com/CSSEGISandData/COVID-19">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a>.</li><li>The data is from January 23th 2020 until January 8<sup>th</sup> 2021</li></ol>
+The dataset used is from Our World in Data (https://ourworldindata.org/coronavirus-source-data) where up until 17 March 2020, they manually extracted from their daily situation report PDFs from WHO and on 30 November 2020, they changed their source for confirmed cases and deaths to the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
+The data is from January 23th 2020 until January 8th 2021
 
 
 ## Data Cleaning
