@@ -8,7 +8,7 @@ COVID Analysis - Project Overview
 
 ## Dataset: 
 The dataset used is from Our World in Data (https://ourworldindata.org/coronavirus-source-data) where up until 17 March 2020, they manually extracted from their daily situation report PDFs from WHO and on 30 November 2020, they changed their source for confirmed cases and deaths to the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
-The data is from January 23th 2020 until January 8th 2021
+The data is from January 23th 2020 until January 8th 2021.
 
 
 ## Data Cleaning
